@@ -1,14 +1,14 @@
 # SumSum_Element
 2016-02 JAVA Team Project
 
-![main](intro1.jpg "promotion")
+![main](intro1.jpg "intro1")
 
-![main](intro1.jpg "slide1")
+![main](intro1.jpg "intro1")
 
-![main](howto.PNG "slide2")
+![main](howto.PNG "howto")
 
-![main](menu.PNG "slide3")
+![main](menu.PNG "menu")
 
-![main](game.PNG "slide4")
+![main](game.PNG "game")
 
-![main](ending.PNG "slide5")
+![main](ending.PNG "ending")
