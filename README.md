@@ -1,5 +1,5 @@
 # SumSum_Element
-2016-02 JAVA Team Project
+2016-02 JAVA Team Project (4인 / 담당 : GameScene, EndingScene)
 
 ![main](intro1.jpg "intro1")
 
