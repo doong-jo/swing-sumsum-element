@@ -3,7 +3,7 @@
 
 ![main](intro1.jpg "intro1")
 
-![main](intro1.jpg "intro1")
+![main](intro2.jpg "intro1")
 
 ![main](howto.PNG "howto")
 
