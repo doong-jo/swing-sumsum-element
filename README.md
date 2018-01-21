@@ -1,5 +1,8 @@
 # SumSum_Element
-2016-02 JAVA(Swing) Team Project (4인 TeamProject / 담당 : GameScene, EndingScene)
+- 2016-02 
+- 4인 개발 / 담당 : GameScene, EndingScene
+- Java / Swing
+- 각각의 원소를 결합하는 퍼즐게임
 
 ![main](intro1.jpg "intro1")
 
